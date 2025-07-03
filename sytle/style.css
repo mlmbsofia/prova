@@ -13,19 +13,58 @@ h1 {
     color: cadetblue;
     text-align: center;
     padding: 30px;
+    font-size: 60px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 h2 {
     color: rgb(237, 166, 100);
-    padding: 30px;
+    padding: 20px;
+    font-size: 40px;
     font-family: Georgia, 'Times New Roman', Times, serif;
+
 
 }
 
-h3 {
-   color: rgb(237, 216, 100);
-    padding: 30px;
+h5 {
+   color: rgb(87, 45, 10);
+    padding: 20px;
+    font-size: 40px;
     font-family: Georgia, 'Times New Roman', Times, serif;
+
  
+}
+
+h3 {
+    padding: 20px;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h4 {
+    padding: 20px;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+ h5 {
+    padding: 20px;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+} 
+
+h6 {
+    padding: 20px;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h4{
+    padding: 20px;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p {
+  font-family: verdana;
+  font-size: 15px;
 }
