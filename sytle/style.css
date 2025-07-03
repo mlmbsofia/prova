@@ -1,0 +1,31 @@
+
+body {
+    background-color: aliceblue;
+}
+
+title {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    padding: 50px
+}
+
+h1 {
+    color: cadetblue;
+    text-align: center;
+    padding: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2 {
+    color: rgb(237, 166, 100);
+    padding: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+h3 {
+   color: rgb(237, 216, 100);
+    padding: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+ 
+}
